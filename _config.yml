@@ -56,9 +56,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
+  instagram: 'https://blog.csdn.net/weixin_43849763?spm=1001.2101.3001.5343'
   github: '//github.com/a1050562365'
 
 # Tags 设置标签
