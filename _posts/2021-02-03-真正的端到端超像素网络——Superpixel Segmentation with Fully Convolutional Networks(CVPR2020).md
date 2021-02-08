@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: 论文笔记
-cover: 'https://pic2.zhimg.com/v2-5ce8e28ff97b32b7f94527173506b12b_1440w.jpg?source=172ae18b'
+cover: 'https://img-blog.csdnimg.cn/20210203170801294.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg0OTc2Mw==,size_16,color_FFFFFF,t_70'
 ---
 
 ## 0. 传送门
