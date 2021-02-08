@@ -6,6 +6,7 @@ cover: 'https://img-blog.csdnimg.cn/20210203170801294.png?x-oss-process=image/wa
 
 ## 0. 传送门
 论文地址：[https://arxiv.org/abs/2003.12929](https://arxiv.org/abs/2003.12929)
+
 github地址：[https://github.com/fuy34/superpixel_fcn](https://github.com/fuy34/superpixel_fcn)
 ## 1. 简介
 超像素最直观的解释，就是把一些具有相似特性的像素“聚合”起来，形成一个更具有代表性的大“元素”。
